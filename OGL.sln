@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL", "OGL\OGL.csproj", "{39E26534-CF42-4A66-8C1F-79C0CD8D60C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OGL.Tests", "OGL.Tests\OGL.Tests.csproj", "{D7DD5F97-D455-4C3C-B505-7A1F9A1BA2AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E26534-CF42-4A66-8C1F-79C0CD8D60C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E26534-CF42-4A66-8C1F-79C0CD8D60C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E26534-CF42-4A66-8C1F-79C0CD8D60C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E26534-CF42-4A66-8C1F-79C0CD8D60C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DD5F97-D455-4C3C-B505-7A1F9A1BA2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DD5F97-D455-4C3C-B505-7A1F9A1BA2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DD5F97-D455-4C3C-B505-7A1F9A1BA2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DD5F97-D455-4C3C-B505-7A1F9A1BA2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
